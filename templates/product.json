@@ -110,6 +110,24 @@
             "show_gift_card_recipient": false
           }
         },
+        "popup_jTtVF4": {
+          "type": "popup",
+          "settings": {
+            "link_text": "Button",
+            "button_color_palette": "accent",
+            "button_style": "fill",
+            "wide": false,
+            "show_link": false,
+            "alignment": "left",
+            "title_size": "h2",
+            "title": "Popup",
+            "text": "",
+            "page": "",
+            "image_width": 460,
+            "liquid": "",
+            "html": ""
+          }
+        },
         "112cdbcf-cdc4-4168-b87c-2f15adce530b": {
           "type": "trustbadge",
           "settings": {}
@@ -179,6 +197,7 @@
         "90724a70-740a-4cc9-984c-764e1d76a5bd",
         "inventory",
         "buy_button",
+        "popup_jTtVF4",
         "112cdbcf-cdc4-4168-b87c-2f15adce530b",
         "ee5e9f1c-a80a-4244-950f-03806a509775",
         "80e67d89-9369-4ddb-8111-2aa1c36fb500",
