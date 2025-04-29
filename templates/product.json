@@ -89,7 +89,7 @@
         "90724a70-740a-4cc9-984c-764e1d76a5bd": {
           "type": "codes",
           "settings": {
-            "show_sku": true,
+            "show_sku": false,
             "show_barcode": true
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "button_style": "plain",
             "show_amount_selection": false,
-            "show_dynamic_buybutton": true,
+            "show_dynamic_buybutton": false,
             "button_style_dynamic_buybutton": "inv",
             "preorder_label": "",
             "preorder_label_color_palette": "light_2",
